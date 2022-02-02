@@ -1,4 +1,4 @@
-![Messenger-Mention-All](https://i.ibb.co/bsNCJSt/Mention-All.png)
+![Messenger-Mention-All](https://i.imgur.com/ughNzu5.png)
 # Mention-All-For-Messenger-Extension
 
 Mention all participants in any group chat with one click.
@@ -35,4 +35,4 @@ _This extension does not require any permission._
 
 ## Author
 
-__[Jayremnt](https://github.com/jayremnt)__
+__[Jayremnt](https://github.com/hasibulislam999)__
