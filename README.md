@@ -8,7 +8,11 @@ Mention all participants in any group chat with one click.
 #### From Source
 
 - Clone/Download this repository
-- Navigate to `chrome://extensions/` and enable `Developer Mode`.
+- For `Google Chrome`
+- Navigate to `chrome://extensions/`
+- For `MS EDGE`
+- Navigate to `edge://extensions/`
+- enable `Developer Mode`
 - Choose `Load unpacked`
 - Select this directory
 
